@@ -6,6 +6,11 @@ Bu proje **HTML & CSS** kullanılarak geliştirilmiştir.
 Amaç: temiz yapı, düzenli CSS, responsive düzen ve GitHub üzerinde profesyonel sunum. ✅
 
 ---
+## 🙏 Teşekkür
+
+Bu projede rehberliği ve katkıları için **https://github.com/Udemig** ekibine teşekkür ederim.  
+Özellikle **https://github.com/isveckrali**’a; mentorluk, yönlendirme ve teknik bakış açımı geliştiren desteği için ayrıca teşekkür ederim. 🙌
+
 
 ## 📌 Proje Özeti
 
@@ -72,11 +77,12 @@ Bu proje ile:
 - GitHub portföyümü daha profesyonel hale getirdim
 
 ---
+---
 
-## 🙏 Teşekkür
+### 🖥️ Full Page View
+Tüm sayfanın genel görünümü.
 
-Bu projede rehberliği ve katkıları için **@Udemig** ekibine teşekkür ederim.  
-Özellikle **@isveckrali**’a; mentorluk, yönlendirme ve teknik bakış açımı geliştiren desteği için ayrıca teşekkür ederim. 🙌
+![Full Screen](screen/fullscreen.png)
 
 ---
 
