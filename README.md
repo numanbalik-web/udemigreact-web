@@ -9,7 +9,7 @@ Amaç: temiz yapı, düzenli CSS, responsive düzen ve GitHub üzerinde profesyo
 ## 🙏 Teşekkür
 
 Bu projede rehberliği ve katkıları için **https://github.com/Udemig** ekibine teşekkür ederim.  
-Özellikle **https://github.com/isveckrali**’a; mentorluk, yönlendirme ve teknik bakış açımı geliştiren desteği için ayrıca teşekkür ederim. 🙌
+Özellikle ** https://github.com/isveckrali ** mentorluk, yönlendirme ve teknik bakış açımı geliştiren desteği için ayrıca teşekkür ederim. 🙌
 
 
 ## 📌 Proje Özeti
